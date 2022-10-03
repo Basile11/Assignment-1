@@ -1,6 +1,6 @@
 # Project: Unknow
 
-## Maximilien Dumont
+## Basile Truquin
 
 ### Description of the Project
 
